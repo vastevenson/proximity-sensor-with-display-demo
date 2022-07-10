@@ -1,9 +1,9 @@
 /*
   Arduino Proximity Sensor with Seven Segment Display
   Author: Vincent Stevenson
-  Goal: create a 
+  Goal: create a proximity sensor that can display real-time distance to an object through a seven segment display. 
 
-  Note I am using 220 ohm resistors (1 for each of the 7 segments)
+  Note I am using 220 ohm resistors (1 for each of the 7 segments) on a breadboard with an Arduino Uno. 
 */
 
 #include <NewPing.h>
